@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/awwwards-melriver-fm/static/css/main.40d822f0.chunk.css",
+    "main.js": "/awwwards-melriver-fm/static/js/main.749d901f.chunk.js",
+    "main.js.map": "/awwwards-melriver-fm/static/js/main.749d901f.chunk.js.map",
+    "runtime-main.js": "/awwwards-melriver-fm/static/js/runtime-main.ef673da4.js",
+    "runtime-main.js.map": "/awwwards-melriver-fm/static/js/runtime-main.ef673da4.js.map",
+    "static/js/2.92f5a56d.chunk.js": "/awwwards-melriver-fm/static/js/2.92f5a56d.chunk.js",
+    "static/js/2.92f5a56d.chunk.js.map": "/awwwards-melriver-fm/static/js/2.92f5a56d.chunk.js.map",
+    "index.html": "/awwwards-melriver-fm/index.html",
+    "static/css/main.40d822f0.chunk.css.map": "/awwwards-melriver-fm/static/css/main.40d822f0.chunk.css.map",
+    "static/js/2.92f5a56d.chunk.js.LICENSE.txt": "/awwwards-melriver-fm/static/js/2.92f5a56d.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.8edfe59d.svg": "/awwwards-melriver-fm/static/media/arrow-left.8edfe59d.svg",
+    "static/media/arrow-right.f030f9db.svg": "/awwwards-melriver-fm/static/media/arrow-right.f030f9db.svg",
+    "static/media/curology-min.png": "/awwwards-melriver-fm/static/media/curology-min.b052d80b.png",
+    "static/media/lumin-min.png": "/awwwards-melriver-fm/static/media/lumin-min.c876698e.png",
+    "static/media/yourspace-min.png": "/awwwards-melriver-fm/static/media/yourspace-min.f952e744.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef673da4.js",
+    "static/js/2.92f5a56d.chunk.js",
+    "static/css/main.40d822f0.chunk.css",
+    "static/js/main.749d901f.chunk.js"
+  ]
+}
